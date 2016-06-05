@@ -1,3 +1,2 @@
-# One Month Rails
-This is the pinteresting sample application 
+This is the pinterest sample application 
 by Matthew Jeffries
